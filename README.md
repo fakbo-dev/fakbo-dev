@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with Web design 😓
 - 💬 Ask me about anything
 - 📫 How to reach me: fakbodev@gmail.com
-- ⚡ Fun fact: i HATE casuals videogames players.
+
 
