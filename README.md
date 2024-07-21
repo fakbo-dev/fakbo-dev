@@ -71,4 +71,3 @@
 </h1>
 <br/>
 
-![snake gif](https://github.com/fakbo-dev/fakbo-dev/blob/output/github-contribution-grid-snake.gif)
