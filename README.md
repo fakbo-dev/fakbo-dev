@@ -21,13 +21,13 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:fakbodev@gmail.com">
+  <a href="mailto:fakbodev@gmail.com" target="_BLANK">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/mauricio-oropeza-54a734312/" target="_blank">
+  <a href="https://www.linkedin.com/in/mauricio-oropeza-54a734312/" target="_BLANK">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://portafolio-tau-bay-37.vercel.app/" target="_blank">
+  <a href="https://portafolio-tau-bay-37.vercel.app/" target="_BLANK">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
