@@ -21,8 +21,8 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:fakbodev@gmail.com" target="_BLANK">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="https://leetcode.com/u/fakbo-dev/" target="_BLANK">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ffakbo-dev&logo=leetcode&logoColor=yellow" />
   </a>
   <a href="https://www.linkedin.com/in/mauricio-oropeza-54a734312/" target="_BLANK">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -61,7 +61,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=fakbo-dev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 <br/><br/>
 
 <hr/>
