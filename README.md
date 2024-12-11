@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Freelancer - Web pages**
+ 🔭 I’m currently working AS **systems analyst - Backend**
  
- 🌱 I’m currently learning **express.js, phyton,mongoDB, DSA, Leetcode**
+ 🌱 I’m currently learning **DBMS, SQL,NODEJS, Backend in general**
 
 💬 Ask me about **Node.js, React, Nextjs... or anything**
 
